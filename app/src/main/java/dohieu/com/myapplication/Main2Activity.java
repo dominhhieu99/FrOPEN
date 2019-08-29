@@ -13,6 +13,7 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         Toast.makeText(this, "test", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "test", Toast.LENGTH_SHORT).show();
-
+        Toast.makeText(this, "test", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "test", Toast.LENGTH_SHORT).show();
     }
 }
